@@ -1,0 +1,2 @@
+string to be copied
+Hello how r u
